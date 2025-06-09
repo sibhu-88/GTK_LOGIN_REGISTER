@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+build/
+resources/*.xls
+
 # Object files
 *.o
 *.ko
